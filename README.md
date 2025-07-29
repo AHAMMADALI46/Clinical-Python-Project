@@ -74,4 +74,5 @@ This presentation and extracted protocol are part of a personal GitHub portfolio
 ---
 
 **Disclaimer:** This is a simulated academic/educational version of a protocol. Not for actual clinical use.
+⚠️ Note: This is a dummy clinical project for learning and demonstration purposes only. No real patient data is used.
 
